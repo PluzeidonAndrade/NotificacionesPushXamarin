@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387478905125",
+    "project_id": "pushnotificationscsi",
+    "storage_bucket": "pushnotificationscsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387478905125:android:f8910bda0186a36ff43acc",
+        "android_client_info": {
+          "package_name": "com.csi.pushnotificationscsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387478905125-ubi0c0f2qdkf6411kptqid0p506ljk99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLeriGCszWdCLzFpU_x0K7HaXZ-TaLJ1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387478905125-ubi0c0f2qdkf6411kptqid0p506ljk99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
